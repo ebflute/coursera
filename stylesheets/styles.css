@@ -177,7 +177,7 @@ div.col p {
 
 /* ----------- Screens ----------- */
 @media screen 
-  and (min-width: 1200px) 
+  and (min-width: 992px) 
   and (max-width: 1600px)  { 
 }
 
@@ -186,8 +186,8 @@ div.col p {
 /* ----------- Tablets ----------- */
 /* Portrait and Landscape */
 @media only screen 
-  and (min-width: 481px) 
-  and (max-width: 1024px)  {
+  and (min-width: 768px) 
+  and (max-width: 991px)  {
 
   	.col {
 	
@@ -214,7 +214,7 @@ div.col p {
 /* Portrait and Landscape */
 @media only screen 
   and (min-width: 220px) 
-  and (max-width: 480px){
+  and (max-width: 767px){
 
 	.col {
 
