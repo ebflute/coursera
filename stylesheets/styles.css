@@ -170,7 +170,7 @@ h2 {
 }
 div.col p {
 
-	padding:70px 30px 30px 30px;display:block;
+	padding:70px 30px 26px 30px;display:block;
 }
 
 
@@ -221,6 +221,7 @@ div.col p {
 	.col {
 
 		width:100%;
+		min-height:100px;
 	}
 
 	.intro {	
