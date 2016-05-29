@@ -170,8 +170,21 @@ h2 {
 div.col p {
 
 	padding:70px 30px 26px 30px;display:block;
+
 }
 
+a {
+	color:#9E3A52;
+	text-decoration:none;
+}
+
+a:hover, a:active, a:visited {
+	
+	color:#6CA67F;
+
+}
+
+.copyright { margin-top: 40px; }
 
 
 
