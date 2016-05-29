@@ -223,7 +223,7 @@ div.col p {
 	.col {
 
 		width:100%;
-		min-height:100px;
+		min-height:10px;
 	}
 
 	.intro {	
