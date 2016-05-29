@@ -206,7 +206,7 @@ div.col p {
 	#three {
 		margin-top:0;
 		width:100%;
-		min-height:100px;
+		min-height:none;
 	}
 	p.intro {	
 		padding:0;
@@ -223,7 +223,7 @@ div.col p {
 	.col {
 
 		width:100%;
-		min-height:10px;
+		min-height:none;
 	}
 
 	.intro {	
