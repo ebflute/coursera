@@ -194,6 +194,7 @@ div.col p {
   	.col {
 	
 		width:49%;
+		min-height:230px;
 	
 	}
 	#two {
@@ -205,6 +206,7 @@ div.col p {
 	#three {
 		margin-top:0;
 		width:100%;
+		min-height:100px;
 	}
 	p.intro {	
 		padding:0;
