@@ -101,7 +101,6 @@
 .col { /* columnn used for 3 column base layout */
 
 
-	min-height:225px;
 	background:#ccc;
 	border:2px solid #9E3A52;
 	float:left;
@@ -181,6 +180,10 @@ div.col p {
 @media screen 
   and (min-width: 992px) 
   and (max-width: 1600px)  { 
+
+  	.col{
+		min-height:225px;
+	}
 }
 
 
@@ -194,19 +197,25 @@ div.col p {
   	.col {
 	
 		width:49%;
-		min-height:230px;
+		
 	
 	}
+
+	#one {
+		min-height:230px;
+	}
+
 	#two {
 
 		float:right;
 		margin-right:0;
+		min-height:230px;
 	}
 
 	#three {
 		margin-top:0;
 		width:100%;
-		min-height:initial;
+		
 	}
 	p.intro {	
 		padding:0;
@@ -223,7 +232,7 @@ div.col p {
 	.col {
 
 		width:100%;
-		min-height:intial;
+		
 	}
 
 	.intro {	
